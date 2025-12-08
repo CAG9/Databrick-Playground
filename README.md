@@ -18,7 +18,7 @@ Gold: Curated, business-ready datasets for analytics and reporting.
 
 * Data Ingestion
 
-Data is ingested into the Bronze layer by creating  databrick tables.
+Data is ingested into the Bronze layer by creating databrick tables.
 
 * Data Transformation & Cleaning
 
