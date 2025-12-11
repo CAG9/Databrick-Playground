@@ -42,7 +42,7 @@ Schema enforcement: Ensuring datasets adhere to predefined structures for reliab
 
 Each transformation step builds upon the previous layer, ensuring that by the time the data reaches Gold, it is optimized for analytics, BI dashboards, and machine learning workflows.
 ## Author
-- Cesar Arcos-Gonzalez cesar99ag@gmail.com
+- Cesar Arcos Gonzalez cesar99ag@gmail.com
 ## License
 MIT License
 ## Tools and Technologies
