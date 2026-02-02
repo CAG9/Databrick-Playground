@@ -44,7 +44,7 @@ Each transformation step builds upon the previous layer, ensuring that by the ti
 ## Author
 - Cesar Arcos Gonzalez cesar99ag@gmail.com
 ## License
-MIT License
+MIT 
 ## Tools and Technologies
 - Pyspark
 - Databricks
