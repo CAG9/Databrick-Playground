@@ -4,6 +4,7 @@ This repository is a hands-on tutorial archive designed to help users learn, imp
 This project implements a complete data ingestion and transformation using Databricks and the Medallion Architecture (Bronze → Silver → Gold).
 The workflow is designed to ensure data quality, scalability, and clear separation between raw ingestion, cleaned data, and business-ready datasets.
 
+
 * Architecture Overview
 Catalog Creation:
 A dedicated Databricks catalog was created to organize the project’s data assets.
