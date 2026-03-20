@@ -9,6 +9,7 @@ The workflow is designed to ensure data quality, scalability, and clear separati
 Catalog Creation:
 A dedicated Databricks catalog was created to organize the project’s data assets.
 
+
 Three Schemas (Layers):
 
 Bronze: Raw ingested data with minimal processing.
