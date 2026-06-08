@@ -11,6 +11,7 @@ A dedicated Databricks catalog was created to organize the project’s data asse
 
 Three Schemas (Layers):
 
+
 Bronze: Raw ingested data with minimal processing.
 
 Silver: Cleaned and standardized data, with transformations applied to improve quality.
